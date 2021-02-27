@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trending Repositories</string>
+    <string name="language">Language</string>
+    <string name="txt_no_network">No network connection</string>
+    <string name="request_failed">Request Failed</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="search_text">Serach</string>
+</resources>
